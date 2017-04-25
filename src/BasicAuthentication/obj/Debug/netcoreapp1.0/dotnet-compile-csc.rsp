@@ -204,3 +204,4 @@
 "C:\Users\epicodus\Desktop\BasicAuthentication\src\BasicAuthentication\Migrations\ApplicationDbContextModelSnapshot.cs"
 "C:\Users\epicodus\Desktop\BasicAuthentication\src\BasicAuthentication\Models\ApplicationDbContext.cs"
 "C:\Users\epicodus\Desktop\BasicAuthentication\src\BasicAuthentication\Models\ApplicationUser.cs"
+"C:\Users\epicodus\Desktop\BasicAuthentication\src\BasicAuthentication\ViewModels\RegisterViewModel.cs"
